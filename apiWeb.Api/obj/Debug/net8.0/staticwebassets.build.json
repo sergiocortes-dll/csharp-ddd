@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XJrSG/VlSTLGugkRrWYz6fSOk7GjIAyIsqKGjy1zEbY=",
+  "Source": "apiWeb.Api",
+  "BasePath": "_content/apiWeb.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

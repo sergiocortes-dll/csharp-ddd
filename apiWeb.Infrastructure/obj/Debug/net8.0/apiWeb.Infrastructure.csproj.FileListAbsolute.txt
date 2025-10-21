@@ -1,0 +1,17 @@
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Infrastructure.deps.json
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Infrastructure.dll
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Infrastructure.pdb
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Application.dll
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Domain.dll
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Domain.pdb
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Application.pdb
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.csproj.AssemblyReference.cache
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.AssemblyInfoInputs.cache
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.AssemblyInfo.cs
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.csproj.CoreCompileInputs.cache
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.csproj.CopyComplete
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.dll
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/Debug/net8.0/refint/apiWeb.Infrastructure.dll
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.pdb
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/Debug/net8.0/ref/apiWeb.Infrastructure.dll

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "apiWeb.Infrastructure/1.0.0": {
+        "dependencies": {
+          "apiWeb.Application": "1.0.0",
+          "apiWeb.Domain": "1.0.0"
+        },
+        "runtime": {
+          "apiWeb.Infrastructure.dll": {}
+        }
+      },
+      "apiWeb.Application/1.0.0": {
+        "dependencies": {
+          "apiWeb.Domain": "1.0.0"
+        },
+        "runtime": {
+          "apiWeb.Application.dll": {}
+        }
+      },
+      "apiWeb.Domain/1.0.0": {
+        "runtime": {
+          "apiWeb.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "apiWeb.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "apiWeb.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "apiWeb.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

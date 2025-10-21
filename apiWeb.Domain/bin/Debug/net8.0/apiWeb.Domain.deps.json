@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "apiWeb.Domain/1.0.0": {
+        "runtime": {
+          "apiWeb.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "apiWeb.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

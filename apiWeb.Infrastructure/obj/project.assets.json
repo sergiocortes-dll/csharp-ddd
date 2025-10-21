@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "apiWeb.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/apiWeb.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/apiWeb.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "apiWeb.Domain/1.0.0": {
+      "type": "project",
+      "path": "../apiWeb.Domain/apiWeb.Domain.csproj",
+      "msbuildProject": "../apiWeb.Domain/apiWeb.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "apiWeb.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/sergio/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/apiWeb.Infrastructure.csproj",
+      "projectName": "apiWeb.Infrastructure",
+      "projectPath": "/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/apiWeb.Infrastructure.csproj",
+      "packagesPath": "/home/sergio/.nuget/packages/",
+      "outputPath": "/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/sergio/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Domain/apiWeb.Domain.csproj": {
+              "projectPath": "/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Domain/apiWeb.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
