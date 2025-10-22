@@ -9,3 +9,4 @@
 /home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Domain/obj/Debug/net8.0/refint/apiWeb.Domain.dll
 /home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Domain/obj/Debug/net8.0/apiWeb.Domain.pdb
 /home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Domain/obj/Debug/net8.0/ref/apiWeb.Domain.dll
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Domain/obj/Debug/net8.0/apiWeb.Domain.sourcelink.json

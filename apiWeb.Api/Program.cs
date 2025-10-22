@@ -6,25 +6,17 @@ using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Agregar servicios de Swagger
-builder.Services.AddEndpointsApiExplorer(); // Habilitar la exploración de endpoints
-builder.Services.AddSwaggerGen(options =>
-{
-    options.SwaggerDoc("v1", new OpenApiInfo
-    {
-        Title = "MyProject API",
-        Version = "v1"
-    });
-});
-
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Configure Dependencies
-builder.Services.AddSingleton<IProductRepository, ProductRepository>(); // Inject repositorie
+builder.Services.AddSingleton<IProductRepository, ProductRepository>(); // Inject repository
 builder.Services.AddScoped<ProductService>(); // Inject Service
+
+builder.Services.AddSingleton<ICustomerRepository, CustomerRepository>(); // Inject repository
+builder.Services.AddScoped<CustomerService>(); // Inject Service
 
 // Add Services and Controllers
 builder.Services.AddControllers();
@@ -64,7 +56,7 @@ app.MapGet("/weatherforecast", () =>
 app.UseAuthorization();
 
 // Map Controllers API
-app.MapControllers();
+// app.MapControllers();
 
 app.Run();
 

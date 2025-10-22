@@ -90,7 +90,6 @@
       },
       "apiWeb.Infrastructure/1.0.0": {
         "dependencies": {
-          "apiWeb.Application": "1.0.0",
           "apiWeb.Domain": "1.0.0"
         },
         "runtime": {

@@ -37,3 +37,4 @@
 /home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Api/obj/Debug/net8.0/apiWeb.Api.pdb
 /home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Api/obj/Debug/net8.0/apiWeb.Api.genruntimeconfig.cache
 /home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Api/obj/Debug/net8.0/ref/apiWeb.Api.dll
+/home/sergio/Documentos/csharp/csharp-ddd-1/apiWeb.Api/obj/Debug/net8.0/apiWeb.Api.sourcelink.json
