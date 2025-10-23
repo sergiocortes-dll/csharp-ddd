@@ -48,6 +48,7 @@ dotnet sln . add webApi.Infrastructure
 Esto es para poder usar los recursos de un proyecto en otro.
 Mas información sobre referencias en: [Referencias.md](Referencias.md)
 
+**Estamos usando Clean Architecture / Onion**
 ```bash
 dotnet add apiWeb.Application reference apiWeb.Domain
 dotnet add apiWeb.Infrastructure reference apiWeb.Domain

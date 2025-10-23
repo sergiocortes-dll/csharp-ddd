@@ -1,5 +1,7 @@
 # Referencias
 
+**Estamos usando Clean Architecture / Onion**
+
 Tenemos las siguientes carpetas/archivos que corresponden a las capas de nuestra arquitectura:
 
 - **API**: Aquí están los controladores de la API, que exponen los puntos de entrada (endpoints) a través de HTTP.
